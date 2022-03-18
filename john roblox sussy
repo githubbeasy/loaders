@@ -1,0 +1,16 @@
+
+if game.PlaceId == 7772810845 then -- presentation
+     loadstring(game:HttpGet(('https://pastebin.com/raw/W4DnicPa'),true))()   
+end
+if game.PlaceId == 8412573470 then -- Arsenal Quest
+     loadstring(game:HttpGet(('https://raw.githubusercontent.com/fusiongreg/BoltsHubV5/main/ArsenalQuest'),true))()   
+end
+if game.PlaceId == 1962086868 then -- TOH
+      loadstring(game:HttpGet(('https://raw.githubusercontent.com/fusiongreg/BoltsHubV5/main/TOH'),true))() 
+end
+if game.PlaceId == 328028363 then -- TC2
+      loadstring(game:HttpGet(('https://raw.githubusercontent.com/fusiongreg/BoltsHubV5/main/TC2'),true))() 
+end
+if game.PlaceId == 3297964905 then -- Weaponry
+      loadstring(game:HttpGet(('https://raw.githubusercontent.com/fusiongreg/BoltsHubV5/main/Weaponry'),true))() 
+end
